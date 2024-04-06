@@ -1,4 +1,5 @@
 def strUpper(string):
+    '''делает заглавными буквы'''
     return string.upper()
 
 
